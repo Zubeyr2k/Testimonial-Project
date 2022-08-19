@@ -7,7 +7,8 @@ Desktop View:
 
 Mobile View:
 
-![Screenshot 2022-08-19 at 04-26-08 Testimonials](https://user-images.githubusercontent.com/95437202/185536646-a79794f0-d24e-44d8-9f3a-98158345d5c6.png)
+![Testimonials](https://user-images.githubusercontent.com/95437202/185539757-1b7d8330-bead-4f53-bbf6-bf3477a4cce5.png)
+
 
 
 
